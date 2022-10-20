@@ -6,7 +6,7 @@ export default function Document() {
       <Head>
         <link
           rel="icon"
-          href="/favicon-32x32.png"
+          href={`${process.env.NEXT_PUBLIC_BASE_PATH}/favicon-32x32.png`}
         />
         <link
           rel="preconnect"
