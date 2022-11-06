@@ -8,7 +8,7 @@ export default function SignUp() {
           <span className="text-base-100/50">per month</span>
         </p>
         <p className="text-base-100/75 leading-[22px]">Full access for less than &#36;1 a day</p>
-        <button className="w-full pt-[13px] pb-[11px] font-bold text-white/75 rounded-md mt-[28px] text-clenter bg-primary-yellow">Sign Up</button>
+        <button className="w-full pt-[13px] pb-[11px] font-bold text-white/75 rounded-md mt-[28px] text-clenter bg-primary-yellow hover:bg-primary-yellow/80">Sign Up</button>
       </section>
     </>
   );
